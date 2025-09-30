@@ -24,43 +24,43 @@ Specifically, the project aims to:
 
 
 # Questions (KPIs)
-•	What are the **total sales revenue** and **total quantity sold** in April 2019?
-•	 Which is the **top-selling products** by revenue and by quantity?
-•	 What is the **average transaction value**?
-•	 Which outlets generated the **highest sales**?
-•	 Who are the **top customers** by total spend?
-•	 What is the **average spending per customer**?
-•	 How do **customer demographics (gender, age groups, loyalty card holders)** impact spending?
-•	 Which store have the **most customers**?
-•	 What proportion of items sold were **promo items**?
-•	 Which **product categories** contribute most to sales?
-•	 What is the **average unit price** per product across transactions?
-•	 Which **staff members** generate the highest sales?
+-	What are the **total sales revenue** and **total quantity sold** in April 2019?
+-	 Which is the **top-selling products** by revenue and by quantity?
+-	 What is the **average transaction value**?
+-	 Which outlets generated the **highest sales**?
+-	 Who are the **top customers** by total spend?
+-	 What is the **average spending per customer**?
+-	 How do **customer demographics (gender, age groups, loyalty card holders)** impact spending?
+-	 Which store have the **most customers**?
+-	 What proportion of items sold were **promo items**?
+-	 Which **product categories** contribute most to sales?
+-	 What is the **average unit price** per product across transactions?
+-	 Which **staff members** generate the highest sales?
 
 # Project Insights
 # Sales and Operations
-•	**Total Sales:** The business generated **$233.64K** in total sales with **72K** units sold.
-•	**Peak Transaction Time:** The period **9 AM to 11:30 AM** is identified as the clear peak selling time, suggesting a need for increased staffing and preparation during this window.
-•	**Channel Performance:** Sales are almost equally split between **Instore (50.39%)** and **Online (49.61%)**, indicating a robust multi-channel business model.
-•	**Top Staff:** **Britanni Jorden** is the top-selling staff member with **$27,516.04** in total sales, highlighting an individual whose sales strategies should be studied and shared.
-**Product Performance and Waste**
-•	**Leading Product Group:** **Beverages** are the overwhelmingly most popular product group, accounting for **82.37%** of sales volume.
-•	**Top Categories:** Within products, **Coffee (91K)** and **Tea (65K)** are the highest-selling categories by total sale.
-•	**Pastry Waste:** A significant issue is the high rate of pastry waste, with **around 61% of pastries wasted than sold**. This points to a major opportunity for cost reduction and inventory optimization.
-o	**Waste Outlet: Outlet ID 5** is responsible for the majority of the wasted pastries.
-o	**Top Wasted Item: Ginger Snaps** are among the most wasted pastry items.
+-	**Total Sales:** The business generated **$233.64K** in total sales with **72K** units sold.
+-	**Peak Transaction Time:** The period **9 AM to 11:30 AM** is identified as the clear peak selling time, suggesting a need for increased staffing and preparation during this window.
+-	**Channel Performance:** Sales are almost equally split between **Instore (50.39%)** and **Online (49.61%)**, indicating a robust multi-channel business model.
+-	**Top Staff:** **Britanni Jorden** is the top-selling staff member with **$27,516.04** in total sales, highlighting an individual whose sales strategies should be studied and shared.
+# Product Performance and Waste
+-	**Leading Product Group:** **Beverages** are the overwhelmingly most popular product group, accounting for **82.37%** of sales volume.
+-	**Top Categories:** Within products, **Coffee (91K)** and **Tea (65K)** are the highest-selling categories by total sale.
+-	**Pastry Waste:** A significant issue is the high rate of pastry waste, with **around 61% of pastries wasted than sold**. This points to a major opportunity for cost reduction and inventory optimization.
+-	**Waste Outlet: Outlet ID 5** is responsible for the majority of the wasted pastries.
+-	**Top Wasted Item: Ginger Snaps** are among the most wasted pastry items.
 # Outlet Performance
-•	**Total Outlets:** The business operates with **9** total outlets.
-•	**Top Outlets by Sales: Outlet ID 8** ($79,528.25) and **Outlet ID 3** ($77,213.23) are the top two performing outlets by total sale.
-•	**Best Sellers: Outlet ID 8** is the best seller for both** Coffee & others (24,109 quantity)** and **Pastry (1,077 quantity)**.
-•	**Customer Count: Outlet ID 5** has the most customers, despite its lower sales rank, which may indicate a smaller average transaction size or a high number of loyalty-card holders.
-**Customer Analysis**
-•	**Gender: Men** are the shop's regular customers with **39,911** orders compared to women.
-•	**Customer Generation: Baby Boomers** are the generation that places the most orders **(37,506)**, indicating they are the primary target demographic.
-•	**Customer Growth:** The number of new customers has been declining since 2017 **(42,911)** to 2019 **(3,260)**, suggesting a potential need for stronger customer acquisition strategies.
-•	**Top Customer: Kelly Key** is the top customer with an impressive **$119,312.72** in total sales.
+-	**Total Outlets:** The business operates with **9** total outlets.
+-	**Top Outlets by Sales: Outlet ID 8** ($79,528.25) and **Outlet ID 3** ($77,213.23) are the top two performing outlets by total sale.
+-	**Best Sellers: Outlet ID 8** is the best seller for both** Coffee & others (24,109 quantity)** and **Pastry (1,077 quantity)**.
+-	**Customer Count: Outlet ID 5** has the most customers, despite its lower sales rank, which may indicate a smaller average transaction size or a high number of loyalty-card holders.
+# Customer Analysis
+- **Gender: Men** are the shop's regular customers with **39,911** orders compared to women.
+-	**Customer Generation: Baby Boomers** are the generation that places the most orders **(37,506)**, indicating they are the primary target demographic.
+-	**Customer Growth:** The number of new customers has been declining since 2017 **(42,911)** to 2019 **(3,260)**, suggesting a potential need for stronger customer acquisition strategies.
+-	**Top Customer: Kelly Key** is the top customer with an impressive **$119,312.72** in total sales.
 
-**Conclusion and Recommendations**
+# Conclusion and Recommendations
 1.	**Reduce Pastry Waste:** Implement tighter inventory management and ordering protocols for pastries, focusing on **Outlet ID 5** and the **Ginger Snaps** product. Consider dynamic pricing or smaller batch production late in the day to minimize the **61% waste rate**.
 2.	**Optimize Staffing:** Ensure adequate staffing during the **9 AM to 11:30 AM** peak period to maximize sales and customer satisfaction.
 3.	**Leverage Top Performers:** Study the sales techniques of **Britanni Jorden** and the operational efficiency of **Outlet ID 8** and apply those best practices across other outlets.
