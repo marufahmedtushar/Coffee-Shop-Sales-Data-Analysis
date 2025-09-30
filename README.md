@@ -24,8 +24,7 @@ Specifically, the project aims to:
 
 
 # Questions (KPIs)
-•	What are the **total sales revenue** and **total quantity sold** in April 2019?<img width="681" height="385" alt="Product" src="https://github.com/user-attachments/assets/6667e8eb-774e-4e1e-98a9-cb7431f1939a" />
-
+•	What are the **total sales revenue** and **total quantity sold** in April 2019?
 •	 Which is the **top-selling products** by revenue and by quantity?
 •	 What is the **average transaction value**?
 •	 Which outlets generated the **highest sales**?
