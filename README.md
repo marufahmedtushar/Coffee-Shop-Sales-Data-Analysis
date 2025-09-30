@@ -15,7 +15,7 @@ Specifically, the project aims to:
 3.	**Standardizing Categorical Data:** Checked for and corrected inconsistencies in text fields (e.g., product names, staff names) by standardizing capitalization and fixing spelling errors to ensure accurate grouping and counting.
 4.	**Data Validation:** Verified that calculated aggregates (e.g., total sales) matched expected totals to ensure the data was correctly loaded and transformed.
 
-# Dashboard |  <a https://app.powerbi.com/groups/me/reports/f0385ec1-107f-4047-bbca-a2e5869b2c79/5c8574f3efe1ef5d8ac9?experience=power-bi>Link</a> 
+# Dashboard |  <a href="https://app.powerbi.com/groups/me/reports/f0385ec1-107f-4047-bbca-a2e5869b2c79/5c8574f3efe1ef5d8ac9?experience=power-bi">Link</a> 
 <img width="682" height="383" alt="sales" src="https://github.com/user-attachments/assets/4f631914-fc04-4063-ae45-1bd769e6d3ce" />
 <img width="681" height="385" alt="Product" src="https://github.com/user-attachments/assets/28fc383c-ae2e-4e4a-93d2-33f2b564b7a8" />
 <img width="682" height="382" alt="Pastry" src="https://github.com/user-attachments/assets/5bca4e56-f465-41b4-a712-1475b28cfed0" />
